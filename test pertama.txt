@@ -1,0 +1,6 @@
+test bikin file yang pertama
+- sign up 
+- membuat repository
+- create new file
+- tulis commit di bawah
+- save ke main branch
