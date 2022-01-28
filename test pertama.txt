@@ -4,3 +4,4 @@ test bikin file yang pertama
 - create new file
 - tulis commit di bawah
 - save ke main branch
+- untuk nambah klik edit
